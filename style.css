@@ -1,5 +1,5 @@
 #body-color {
-    background-color: burlywood;
+    background-color: gray;
 }
 #register{
     background-image: url("/images/blog.jpg");
@@ -13,11 +13,16 @@
 }
 #button
 {
+    background-image:url("/images/register.jpg");
     border-radius: 10px;
     width: 100px;
     height: 40px;
-    background-image: url("/images/register.jpg");
     background-color: aqua;
     font-weight: bold;
     font-size: 20px;
+}
+#form{
+    width: 35%;
+    border-radius: 10px;
+    background-color: chartreuse;
 }
